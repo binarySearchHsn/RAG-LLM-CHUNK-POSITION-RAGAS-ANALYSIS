@@ -11,4 +11,8 @@ Bu dosyada Cosmos modeli kullanılarak sorulara nasıl cevap alındığı örnek
 ## Gemma-2-9b-it-Model.ipynb Dosyası:
 Bu dosyada Google Gemma modeli kullanılarak benzer şekilde cevaplar oluşturulmuştur. Bu kod dosyası concurrent şekilde farklı girdiler için de çalıştırılmıştır ve sonuçlar bir txt dosyasında saklanmaktadır.
 
+## RagasDeğerlendirmesi.ipynb Dosyası:
+Tüm sorulardan ragas sonuçlarının elde edildiği dosyadır.
 
+## Grafikler.ipynb Dosyası:
+Tüm grafiklerin oluşturulduğu dosyadır.
